@@ -1,2 +1,5 @@
 # hello-world
-Just exploring
+
+hi!
+
+I am Hariprakash, new to GitHub just Exploring the platform and learning new things.
